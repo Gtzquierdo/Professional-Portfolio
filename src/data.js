@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Javascript, MomentJS, and Firebase",
     description:
       "Train-Time App where I used Firebase to store data as well as using MomentJS",
-    image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/1200px-Denver_Nuggets.svg.png",
+    image: "./train-time.png",
     link: "https://gtzquierdo.github.io/Train-Time/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "HTML, CSS, Javascript",
     description:
       "API project where I used javascript, jquery, and AJAX to call gifs from the public api from giphy. Once the gifs were called they would be able to be animated once the image is clicked.",
-    image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/1200px-Denver_Nuggets.svg.png",
+    image: "./gifs.png",
     link: "https://gtzquierdo.github.io/GifTastic/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "ExpressJS, MYSQL, PassportJS",
     description:
       "Built a low-end compatibility-based FriendFinder app where the app take in the results from users' surveys. Then compares their answers with those from other users.",
-    image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/1200px-Denver_Nuggets.svg.png",
+    image: "./friend.png",
     link: "https://infinite-spire-81868.herokuapp.com/",
   },
 ];
