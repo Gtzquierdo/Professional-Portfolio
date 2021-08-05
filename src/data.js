@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Javascript",
     description:
       "Live life one loop at a time. A javascript coding exercise using loops. Write a program that displays the numbers from 0 to 100. Display the even numbers in BOLD.",
-    image: "public\Project_Img.svg",
+    image: "https://github.com/Gtzquierdo/Professional-Portfolio/blob/0207cc2269b1ee99a7b7a9dceadb12697b2d0be3/public/Project_Img.svg",
     link: "https://gtzquierdo.github.io/Hundo/index.html",
   },
   {
