@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Javascript",
     description:
       "Live life one loop at a time. A javascript coding exercise using loops. Write a program that displays the numbers from 0 to 100. Display the even numbers in BOLD.",
-    image: "./Project_Img.svg",
+    image: "./hundo.png",
     link: "https://gtzquierdo.github.io/Hundo/index.html",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Javascript, MomentJS, and Firebase",
     description:
       "Train-Time App where I used Firebase to store data as well as using MomentJS",
-    image: "./train-time.png",
+    image: "./train.png",
     link: "https://gtzquierdo.github.io/Train-Time/",
   },
   {
