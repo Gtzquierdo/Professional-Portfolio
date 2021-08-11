@@ -8,12 +8,12 @@ export const projects = [
     link: "https://gtzquierdo.github.io/Hundo/index.html",
   },
   {
-    title: "Train Schedule",
-    subtitle: "Javascript, MomentJS, and Firebase",
+    title: "Friend Finder App",
+    subtitle: "ExpressJS, MYSQL, PassportJS",
     description:
-      "Train-Time App where I used Firebase to store data as well as using MomentJS",
-    image: "./train.png",
-    link: "https://gtzquierdo.github.io/Train-Time/",
+      "Built a low-end compatibility-based FriendFinder app where the app take in the results from users' surveys. Then compares their answers with those from other users.",
+    image: "./friend.png",
+    link: "https://infinite-spire-81868.herokuapp.com/",
   },
   {
     title: "Javascript Coding Exercise",
@@ -24,12 +24,12 @@ export const projects = [
     link: "https://gtzquierdo.github.io/Rewind/",
   },
   {
-    title: "Friend Finder App",
-    subtitle: "ExpressJS, MYSQL, PassportJS",
+    title: "Train Schedule",
+    subtitle: "Javascript, MomentJS, and Firebase",
     description:
-      "Built a low-end compatibility-based FriendFinder app where the app take in the results from users' surveys. Then compares their answers with those from other users.",
-    image: "./friend.png",
-    link: "https://infinite-spire-81868.herokuapp.com/",
+      "Train-Time App where I used Firebase to store data as well as using MomentJS",
+    image: "./train.png",
+    link: "https://gtzquierdo.github.io/Train-Time/",
   },
 ];
 
