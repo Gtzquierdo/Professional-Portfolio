@@ -16,12 +16,12 @@ export const projects = [
     link: "https://gtzquierdo.github.io/Train-Time/",
   },
   {
-    title: "API Call Project",
-    subtitle: "HTML, CSS, Javascript",
+    title: "Javascript Coding Exercise",
+    subtitle: "HTML, CSS, Javascript, Bootstrap 5",
     description:
-      "API project where I used javascript, jquery, and AJAX to call gifs from the public api from giphy. Once the gifs were called they would be able to be animated once the image is clicked.",
-    image: "./gifs.png",
-    link: "https://gtzquierdo.github.io/GifTastic/",
+      "There and back again. A Javascript coding exercise using arrays. Write a program that display a string in reverse.",
+    image: "./rewind.png",
+    link: "https://gtzquierdo.github.io/Rewind/",
   },
   {
     title: "Friend Finder App",
