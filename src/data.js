@@ -3,7 +3,7 @@ export const projects = [
     title: "Fizz Buzz: A Coding Project",
     subtitle: "Javascript",
     description:
-      "A javascript coding exercise using loops. Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number and for the multiples of '5' print "Buzz." If a multiple of both display "FizzBuzz."",
+      "A javascript coding exercise using loops. Write a program that prints the numbers from 1 to 100 and for multiples of '3' print Fizz instead of the number and for the multiples of '5' print Buzz. If a multiple of both display FizzBuzz.",
     image: "./fizzBuzz.png",
     link: "https://gtzquierdo.github.io/FizzBuzz/",
   },
