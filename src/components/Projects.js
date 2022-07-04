@@ -12,7 +12,7 @@ export default function Projects() {
                     Apps I've Built
                 </h1>
                 <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                    These Apps were built during my time at University of Denver Full Stack Web Developer Bootcamp. Currently, working on a Blog utilizing MERN stack.
+                    Below are some of the apps I've built while on my coding journey. As well as for a few clients.
                 </p>
             </div>
             <div className="flex flex-wrap -m-4">
