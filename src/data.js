@@ -11,7 +11,7 @@ export const projects = [
     title: "The Great Find",
     subtitle: "React, Next.js, Sanity.io, Stripe",
     description:
-      "Built for client: A fully responsive Modern Full Stack Ecommerce application with Payments functionality using Stripe API. The application is built using React, Next.js, Sanity.io, and Stripe API. I learned how to use Stripe API to create a payment form and how to use Sanity.io to create a content management system. I also learned how to use Next.js to create a server side rendered application.",
+      "Built for client(In Progress): A fully responsive Modern Full Stack Ecommerce application with Payments functionality using Stripe API. The application is built using React, Next.js, Sanity.io, and Stripe API. I learned how to use Stripe API to create a payment form and how to use Sanity.io to create a content management system. I also learned how to use Next.js to create a server side rendered application.",
     image: "./theGreatFind.png",
     link: "https://the-great-find.vercel.app/",
   },
