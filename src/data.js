@@ -8,12 +8,12 @@ export const projects = [
     link: "https://gtzquierdo.github.io/FizzBuzz/",
   },
   {
-    title: "Friend Finder App",
-    subtitle: "ExpressJS, MYSQL, PassportJS",
+    title: "The Great Find",
+    subtitle: "React, Next.js, Sanity.io, Stripe",
     description:
-      "Built a low-end compatibility-based FriendFinder app where the app take in the results from users' surveys. Then compares their answers with those from other users.",
-    image: "./friend.png",
-    link: "https://infinite-spire-81868.herokuapp.com/",
+      "Built for client: A fully responsive Modern Full Stack Ecommerce application with Payments functionality using Stripe API. The application is built using React, Next.js, Sanity.io, and Stripe API. I learned how to use Stripe API to create a payment form and how to use Sanity.io to create a content management system. I also learned how to use Next.js to create a server side rendered application.",
+    image: "./theGreatFind.png",
+    link: "https://the-great-find.vercel.app/",
   },
   {
     title: "Javascript Coding Exercise",
