@@ -3,5 +3,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/Professional-Portfolio/index.html"
+  to = "/index.html"
   status = 200
