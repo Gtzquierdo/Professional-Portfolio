@@ -1,9 +1,6 @@
 [build]
   command = "CI= npm run build"
-  commandOrigin: config
-  environment: [CI=true]
-  publish: /opt/build/repo/build
-  publishOrigin: ui
+  commandOrigin = config
 
 [[redirects]]
   from = "/*"
