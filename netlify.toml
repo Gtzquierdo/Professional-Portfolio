@@ -2,7 +2,7 @@
   command = CI='' npm run build
   commandOrigin: config
   environment: [CI=true]
-  publish: /opt/build/repo/build
+  publish = "build"
   publishOrigin: ui
 
 [[redirects]]
